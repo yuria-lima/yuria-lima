@@ -44,4 +44,5 @@
 ***
 
 ### Contact:
-<img onclick="mailto:yuriaarcadia@gmail.com" height="32" width="32" src="https://cdn.simpleicons.org/Gmail?viewbox=auto"/> <img height="32" width="32" src="https://cdn.simpleicons.org/Discord?viewbox=auto"/>
+<a href="mailto:yuriaarcadia@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/Gmail?viewbox=auto"/><a/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Discord?viewbox=auto"/>
