@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center" >Oh, that's me</h1>
 
-<!--
-**yuria-lima/yuria-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="580" src="https://steamuserimages-a.akamaihd.net/ugc/2491137147731428748/D76005FE96FE635AC844D1AE3C97FCDC28BD2865/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
-Here are some ideas to get you started:
+<div align="left" >
+· · ─ Yuria Lima, under age dev;<br>
+· · ─ Front-End Developer;<br>
+· · ─ Knowledge focused on Linux Systems <br>
+· · ─ Studying JavaScript;<br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center" >Knowledge:</h2>
+<div align="left">
+
+<div style="display:;">
+<h3> Front-End </h3>
+<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5?viewbox=auto"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/CSS3?viewbox=auto"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript?viewbox=auto"/>
+
+<h3>Back-End</h3>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Python?viewbox=auto"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Node.Js?viewbox=auto"/>
+<br>
+
+<h3>Systems/Servers</h3>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Linux/white?viewbox=auto"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Docker?viewbox=auto"/>
+<br>
+
+<h3>Versions</h3>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Git?viewbox=auto"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/GitHub?viewbox=auto"/>
+</div>
+
+#
+## Contact:
+<img onclick="mailto:yuriaarcadia@gmail.com" height="32" width="32" src="https://cdn.simpleicons.org/Gmail?viewbox=auto"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/Discord?viewbox=auto"/>
